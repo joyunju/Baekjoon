@@ -15,13 +15,14 @@ public class Num_10869 {
 
 		int a = sc.nextInt();
 		int b = sc.nextInt();
-
+		
 		int add = a + b;
 		int minus = a - b;
 		int multiplication = a * b;
 		int division = a / b;
 		int result = a % b;
-
+		
+		//출력
 		System.out.println(add);
 		System.out.println(minus);
 		System.out.println(multiplication);
